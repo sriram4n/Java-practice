@@ -1,0 +1,18 @@
+ 1. Swap Numbers
+ 2. Even/Odd
+ 3. Check Number Type
+ 4. Sum of Natural Numbers
+ 5. Factorial
+ 6. Prime Number
+ 7. Greatest of Two
+ 8. Greatest of Three
+ 9. Leap Year
+ 10. Print 1 to N
+ 11. Reverse Number
+ 12. Count Digits
+ 13. Sum of Digits
+ 14. Multiplication Table
+ 15. Fibonacci
+ 16. Palindrome Number
+ 17. Armstrong Number
+ 18. Vowel or Consonant
