@@ -22,5 +22,6 @@ public class Pattern14{
             }
             System.out.println();
         }
+        scan.close();
     }
 }
